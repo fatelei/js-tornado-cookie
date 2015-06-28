@@ -1,6 +1,6 @@
 {
   "name": "js-tornado-cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "parse tornado cookie",
   "main": "index.js",
   "scripts": {
